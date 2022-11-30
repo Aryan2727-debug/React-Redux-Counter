@@ -1,0 +1,38 @@
+body{
+  background-color: antiquewhite;
+}
+
+.main-heading{
+  position: absolute;
+  top: 30%;
+  left: 33%;
+  color: cadetblue;
+}
+
+.redux-heading{
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  color: cadetblue;
+}
+
+.number{
+  position: absolute;
+  top: 56%;
+  left: 49.5%;
+  color: black;
+  width: 50px;
+  padding: 5px;
+}
+
+.inc-btn{
+  position: absolute;
+  top: 56%;
+  left: 40%;
+}
+
+.dec-btn{
+  position: absolute;
+  top: 56%;
+  left: 55%;
+}
